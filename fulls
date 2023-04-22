@@ -31,7 +31,7 @@ getgenv().Yuth = {
 }
 --I removed the group so yall dumbasses can use it
 
-local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
+local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/wealth-ful/sil/main/dependency"))();
 local Notify = AkaliNotif.Notify;
 
 --- the code shit

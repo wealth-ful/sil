@@ -26,7 +26,7 @@ getgenv().Yuth = {
     },
     Macro = {
         Enabled = true,
-        Keybind = "x",
+        Keybind = "q",
     },
 }
 --I removed the group so yall dumbasses can use it
